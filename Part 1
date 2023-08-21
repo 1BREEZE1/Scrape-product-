@@ -1,1 +1,16 @@
+First install all the essential pacakges using terminal or command prompt
 
+Scrapy
+    pip install scrapy
+
+Requests
+    pip install requests
+
+Beautiful Soup
+    pip install beautifulsoup4
+
+Pandas
+    pip install pandas
+
+User-Agent Rotation (Optional): If you're encountering issues with scraping due to anti-scraping measures, you might consider using libraries like fake-useragent to rotate user agents and make your requests appear more like those from different browsers.
+    pip install fake-useragent
