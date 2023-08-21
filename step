@@ -1,0 +1,5 @@
+After writing the spider code type on terminal oe command prompt:-
+
+    scrapy crawl products -o products.csv
+
+after sucessfully executing open products.csv on excel
