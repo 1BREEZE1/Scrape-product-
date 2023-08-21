@@ -1,4 +1,4 @@
-After writing the spider code type on terminal oe command prompt:-
+After writing the products_spider code type on terminal or command prompt:-
 
     scrapy crawl products -o products.csv
 
