@@ -1,1 +1,5 @@
-
+Step 1: Install package
+Step 2: Craete a Scrapy project
+Step 3: products_spider.py
+Step 4: Save scraped data to .csv file
+Step 5: products.csv
